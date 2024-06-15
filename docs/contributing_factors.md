@@ -221,43 +221,43 @@ By integrating these detailed propositions and contributing factors, the framewo
 
 
 
-**References**
+# References
 
-    Adner, R., & Levinthal, D. (2002). The emergence of emerging technologies. Insead, Fontainebleau.
-    Agarwal, R., & Gort, M. (1996). The evolution of markets and entry, exit, and survival of firms. The Review of Economics and Statistics, 78(3), 489-498.
-    Anderson, P., & Tushman, M. L. (1990). Technological discontinuities and dominant designs: A cyclical model of technological change. Administrative Science Quarterly, 35(4), 604-633.
-    Arner, D. W., Barberis, J. N., & Buckley, R. P. (2015). The evolution of fintech: A new post-crisis paradigm? Georgetown Journal of International Law, 47, 1271-1319.
-    Bocken, N. M., Short, S. W., Rana, P., & Evans, S. (2014). A literature and practice review to develop sustainable business model archetypes. Journal of Cleaner Production, 65, 42-56.
-    Boudreau, K. J., & Ziskin, I. (2011). The future of work in the digital economy. MIT Sloan Management Review, 52(2), 29-34.
-    Bower, J. L., & Christensen, C. M. (1995). Disruptive technologies: Catching the wave. Harvard Business Review, 73(1), 43-53.
-    Christensen, C. M. (1997). The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail. Boston: Harvard Business School Press.
-    Christensen, C. M., Anthony, S. D., & Roth, E. A. (2005). Seeing what's next: Using the theories of innovation to predict industry change. Journal of Engineering and Technology Management, 22(4), 332-334.
-    Christensen, C. M., Raynor, M. E., & McDonald, R. (2015). What is disruptive innovation? Harvard Business Review, December 2015. Retrieved from HBR.org.
-    Cusumano, M. A., Gawer, A., & Yoffie, D. B. (2019). The business of platforms: Strategy in the age of digital competition, innovation, and power. Harper Business.
-    Enkel, E., & Gassmann, O. (2010). Creative imitation: Exploring the case of cross-industry innovation. R&D Management, 40(3), 256-270.
-    Fombrun, C., & Shanley, M. (1990). What's in a name? Reputation building and corporate strategy. Academy of Management Journal, 33(2), 233-258.
-    Geroski, P. (1999). Innovation as an engine of competition. In A. Haid (Ed.), Competition, Efficiency, and Welfare: Essays in Honor of Manfred Neumann (pp. 13–26). Kluwer Academic Publishers.
-    Govindarajan, V., & Kopalle, P. (2006). The usefulness of measuring disruptiveness of innovations ex post in making ex ante predictions. Journal of Product Innovation Management, 23, 12-18.
-    Gröhn, A. (1999). Netzwerkeffekte und Wettbewerbspolitik — Eine ökonomische Analyse des Softwaremarktes. Mohr Siebeck.
-    Guo, J., Pan, J., Guo, J., Gu, F., & Kuusisto, J. (2019). Measurement framework for assessing disruptive innovations. Technological Forecasting and Social Change, 139, 250-265.
-    Habtay, S. R., & Holmén, M. (2014). Incumbents responses to disruptive business model innovation: The moderating role of technology vs. market-driven innovation. International Journal of Entrepreneurship and Innovation Management.
-    Hüsig, S., Hipp, C., & Dowling, M. (2005). Analyzing disruptive potential: The case of wireless local area network and mobile communications network companies. R&D Management, 35(1), 17-35.
-    Klenner, P., Hüsig, S., & Dowling, M. (2009). Ex ante identification of disruptive innovations in the software industry applied to web applications: The case of Microsoft's vs. Google's office applications. Technological Forecasting & Social Change, 76, 1044-1054.
-    Klenner, P., Hüsig, S., & Dowling, M. (2013). Ex-ante evaluation of disruptive susceptibility in established value networks - when are markets ready for disruptive innovations. Research Policy, 42(4), 914-927.
-    Klepper, S. (1997). Industry life cycles. Industrial and Corporate Change, 6(1), 145-182.
-    Kshetri, N. (2013). Privacy and security issues in cloud computing: The role of institutions and institutional evolution. Telecommunications Policy, 37(4-5), 372-386.
-    Marston, S., Li, Z., Bandyopadhyay, S., Zhang, J., & Ghalsasi, A. (2011). Cloud computing—The business perspective. Decision Support Systems, 51(1), 176-189.
-    Paap, J., & Katz, R. (2004). Anticipating disruptive innovation. Research-Technology Management, 47(5), 13-22. Retrieved from http://jaypaap.com/articles/Paap-Katz-Disruptive%20Innovation-sep-04-p13-mod.pdf (Accessed: January 1, 2021).
-    Parker, G. G., & Van Alstyne, M. W. (2018). Innovation, openness, and platform control. Management Science, 64(7), 3015-3032.
-    Prahalad, C. K., & Ramaswamy, V. (2004a). The Future of Competition: Co-Creating Unique Value with Customers. Harvard Business School Press.
-    Provost, F., & Fawcett, T. (2013). Data science and its relationship to big data and data-driven decision making. Big Data, 1(1), 51-59.
-    Rafii, F., & Kampas, P. (2002). How to identify your enemies before they destroy you. Harvard Business Review, 80(11), 15-23.
-    Rigby, D. K., Sutherland, J., & Takeuchi, H. (2016). Embracing agile. Harvard Business Review, 94(5), 40-50.
-    Sainio, L. M. (2004). A framework for analysing the effects of new, potentially disruptive technology on a business model case – Bluetooth. International Journal of Electronic Business, 2(3), 255-273.
-    Schmidt, G. (2008). When is a disruptive innovation disruptive? The Journal of Product Innovation Management, 25, 347-369.
-    Strebel, P. (1987). Organizing for innovation over an industry cycle. Strategic Management Journal, 8(2), 117-124.
-    Tripsas, M. (2008). Customer preference discontinuities: A trigger for radical technological change. Managerial Decision Economics, 29, 79-97.
-    Varian, H. R., & Farrell, J. (2005). The Economics of Information Technology: An Introduction. Cambridge University Press.
+- Adner, R., & Levinthal, D. (2002). The emergence of emerging technologies. Insead, Fontainebleau.
+- Agarwal, R., & Gort, M. (1996). The evolution of markets and entry, exit, and survival of firms. The Review of Economics and Statistics, 78(3), 489-498.
+- Anderson, P., & Tushman, M. L. (1990). Technological discontinuities and dominant designs: A cyclical model of technological change. Administrative Science Quarterly, 35(4), 604-633.
+- Arner, D. W., Barberis, J. N., & Buckley, R. P. (2015). The evolution of fintech: A new post-crisis paradigm? Georgetown Journal of International Law, 47, 1271-1319.
+- Bocken, N. M., Short, S. W., Rana, P., & Evans, S. (2014). A literature and practice review to develop sustainable business model archetypes. Journal of Cleaner Production, 65, 42-56.
+- Boudreau, K. J., & Ziskin, I. (2011). The future of work in the digital economy. MIT Sloan Management Review, 52(2), 29-34.
+- Bower, J. L., & Christensen, C. M. (1995). Disruptive technologies: Catching the wave. Harvard Business Review, 73(1), 43-53.
+- Christensen, C. M. (1997). The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail. Boston: Harvard Business School Press.
+- Christensen, C. M., Anthony, S. D., & Roth, E. A. (2005). Seeing what's next: Using the theories of innovation to predict industry change. Journal of Engineering and Technology Management, 22(4), 332-334.
+- Christensen, C. M., Raynor, M. E., & McDonald, R. (2015). What is disruptive innovation? Harvard Business Review, December 2015. Retrieved from HBR.org.
+- Cusumano, M. A., Gawer, A., & Yoffie, D. B. (2019). The business of platforms: Strategy in the age of digital competition, innovation, and power. Harper Business.
+- Enkel, E., & Gassmann, O. (2010). Creative imitation: Exploring the case of cross-industry innovation. R&D Management, 40(3), 256-270.
+- Fombrun, C., & Shanley, M. (1990). What's in a name? Reputation building and corporate strategy. Academy of Management Journal, 33(2), 233-258.
+- Geroski, P. (1999). Innovation as an engine of competition. In A. Haid (Ed.), Competition, Efficiency, and Welfare: Essays in Honor of Manfred Neumann (pp. 13–26). Kluwer Academic Publishers.
+- Govindarajan, V., & Kopalle, P. (2006). The usefulness of measuring disruptiveness of innovations ex post in making ex ante predictions. Journal of Product Innovation Management, 23, 12-18.
+- Gröhn, A. (1999). Netzwerkeffekte und Wettbewerbspolitik — Eine ökonomische Analyse des Softwaremarktes. Mohr Siebeck.
+- Guo, J., Pan, J., Guo, J., Gu, F., & Kuusisto, J. (2019). Measurement framework for assessing disruptive innovations. Technological Forecasting and Social Change, 139, 250-265.
+- Habtay, S. R., & Holmén, M. (2014). Incumbents responses to disruptive business model innovation: The moderating role of technology vs. market-driven innovation. International Journal of Entrepreneurship and Innovation Management.
+- Hüsig, S., Hipp, C., & Dowling, M. (2005). Analyzing disruptive potential: The case of wireless local area network and mobile communications network companies. R&D Management, 35(1), 17-35.
+- Klenner, P., Hüsig, S., & Dowling, M. (2009). Ex ante identification of disruptive innovations in the software industry applied to web applications: The case of Microsoft's vs. Google's office applications. Technological Forecasting & Social Change, 76, 1044-1054.
+- Klenner, P., Hüsig, S., & Dowling, M. (2013). Ex-ante evaluation of disruptive susceptibility in established value networks - when are markets ready for disruptive innovations. Research Policy, 42(4), 914-927.
+- Klepper, S. (1997). Industry life cycles. Industrial and Corporate Change, 6(1), 145-182.
+- Kshetri, N. (2013). Privacy and security issues in cloud computing: The role of institutions and institutional evolution. Telecommunications Policy, 37(4-5), 372-386.
+- Marston, S., Li, Z., Bandyopadhyay, S., Zhang, J., & Ghalsasi, A. (2011). Cloud computing—The business perspective. Decision Support Systems, 51(1), 176-189.
+- Paap, J., & Katz, R. (2004). Anticipating disruptive innovation. Research-Technology Management, 47(5), 13-22. Retrieved from http://jaypaap.com/articles/Paap-Katz-Disruptive%20Innovation-sep-04-p13-mod.pdf (Accessed: January 1, 2021).
+- Parker, G. G., & Van Alstyne, M. W. (2018). Innovation, openness, and platform control. Management Science, 64(7), 3015-3032.
+- Prahalad, C. K., & Ramaswamy, V. (2004a). The Future of Competition: Co-Creating Unique Value with Customers. Harvard Business School Press.
+- Provost, F., & Fawcett, T. (2013). Data science and its relationship to big data and data-driven decision making. Big Data, 1(1), 51-59.
+- Rafii, F., & Kampas, P. (2002). How to identify your enemies before they destroy you. Harvard Business Review, 80(11), 15-23.
+- Rigby, D. K., Sutherland, J., & Takeuchi, H. (2016). Embracing agile. Harvard Business Review, 94(5), 40-50.
+- Sainio, L. M. (2004). A framework for analysing the effects of new, potentially disruptive technology on a business model case – Bluetooth. International Journal of Electronic Business, 2(3), 255-273.
+- Schmidt, G. (2008). When is a disruptive innovation disruptive? The Journal of Product Innovation Management, 25, 347-369.
+- Strebel, P. (1987). Organizing for innovation over an industry cycle. Strategic Management Journal, 8(2), 117-124.
+- Tripsas, M. (2008). Customer preference discontinuities: A trigger for radical technological change. Managerial Decision Economics, 29, 79-97.
+- Varian, H. R., & Farrell, J. (2005). The Economics of Information Technology: An Introduction. Cambridge University Press.
 
 
 
